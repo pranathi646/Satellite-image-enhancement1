@@ -1,11 +1,11 @@
 # Satellite Image Enhancement for Environmental Monitoring
-Overview
+Overview:
 This project aims to develop a digital image processing solution for enhancing satellite images to facilitate effective environmental monitoring. The primary objective is to improve the visual quality of satellite data, enabling better discrimination of land features, vegetation, and environmental changes.
 
-Problem Statement
+Problem Statement:
 Satellite imagery is a valuable tool for monitoring environmental changes, but raw satellite data often lacks clarity and detail, making it challenging to discern important features. This project addresses the need for enhancing satellite images to provide clearer and more informative visualizations for environmental monitoring purposes.
 
-Goals
+Goals:
 Develop algorithms for enhancing satellite images to improve visual quality.
 Increase the clarity and detail of land features, vegetation, and environmental changes in satellite imagery.
 Create a user-friendly solution that can be easily integrated into existing environmental monitoring systems.
